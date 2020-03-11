@@ -1,4 +1,4 @@
-![title](in.jpg)
+![title](img.jpg)
 # Innoplexus Online Hiring Hackathon: Saving lives with AI
 Innoplexus Online Hiring Hackathon : Saving Lives with AI hosted by Analytics Vidya
 
